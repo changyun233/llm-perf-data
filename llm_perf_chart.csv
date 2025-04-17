@@ -1,136 +1,136 @@
-﻿Model,Releasedate,Organization,Global Average,Reasoning Average,Coding Average,Mathematics Average,Data Analysis Average,Language Average,IF Average,SourceURL
-o3 High,2025/4/16,OpenAI,81.55,93.33,73.33,84.67,75.8,76.0,86.17,
-o3 Medium,2025/4/16,OpenAI,79.22,91.0,72.62,80.66,73.21,73.48,84.32,
-o4-Mini High,2025/04/16,OpenAI,78.13,88.11,74.33,84.9,70.43,66.05,84.96,
-Gemini 2.5 Pro Experimental,,Google,77.43,87.53,58.09,89.16,79.89,69.31,80.59,
-o4-Mini Medium,,OpenAI,72.75,78.47,61.81,81.02,70.96,62.41,81.83,
+Model,Releasedate,Organization,Global Average,Reasoning Average,Coding Average,Mathematics Average,Data Analysis Average,Language Average,IF Average,SourceURL
+o3 High,4/16/2025,OpenAI,81.55,93.33,73.33,84.67,75.8,76,86.17,
+o3 Medium,3/14/2023,OpenAI,79.22,91,72.62,80.66,73.21,73.48,84.32,
+o4-Mini High,4/16/2025,OpenAI,78.13,88.11,74.33,84.9,70.43,66.05,84.96,
+Gemini 2.5 Pro Experimental,25-Mar-25,Google,77.43,87.53,58.09,89.16,79.89,69.31,80.59,https://www.google.com/search?q=Gemini+2.5+Pro+Experimental++release+date+site%3Awikipedia.org&sca_esv=bf566d55456b5970&ei=4JsAaJ_PLaCn2roP_N3MgQM&ved=0ahUKEwifv4jUtN6MAxWgk1YBHfwuMzAQ4dUDCBA&uact=5&oq=Gemini+2.5+Pro+Experimental++release+date+site%3Awikipedia.org&gs_lp=Egxnd3Mtd2l6LXNlcnAiPEdlbWluaSAyLjUgUHJvIEV4cGVyaW1lbnRhbCAgcmVsZWFzZSBkYXRlIHNpdGU6d2lraXBlZGlhLm9yZ0jABlAAWN8DcAB4AJABAJgBpgOgAYUEqgEFMS40LTG4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgB2ayBwC4BwA&sclient=gws-wiz-serp
+o4-Mini Medium,"April 16th, 2025",OpenAI,72.75,78.47,61.81,81.02,70.96,62.41,81.83,https://www.google.com/search?q=o4-Mini+Medium+++release+date+site%3Awikipedia.org&sca_esv=bf566d55456b5970&ei=K5wAaM22CLzT2roPgMyOwAo&ved=0ahUKEwiN-MT3tN6MAxW8qVYBHQCmA6gQ4dUDCBA&uact=5&oq=o4-Mini+Medium+++release+date+site%3Awikipedia.org&gs_lp=Egxnd3Mtd2l6LXNlcnAiMG80LU1pbmkgTWVkaXVtICAgcmVsZWFzZSBkYXRlIHNpdGU6d2lraXBlZGlhLm9yZ0iHAlAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcA&sclient=gws-wiz-serp
 o1 High,,OpenAI,72.18,77.47,57.14,79.28,65.47,72.15,81.55,
-o3 Mini High,2025/2/12,OpenAI,71.37,74.36,65.48,76.55,70.64,56.86,84.36,
-Claude 3.7 Sonnet Thinking,2025/02/24,Anthropic,70.57,76.17,44.67,79.0,74.05,68.27,81.25,https://www.google.com/search?q=Claude%203.7%20Sonnet%20Thinking%20Anthropic%20release%20date%20site%3Awikipedia.org
-Grok 3 Mini Beta (High),,xAI,68.33,87.61,39.71,77.0,67.87,59.09,78.7,
-DeepSeek R1,2025/01/20,DeepSeek,67.47,76.58,48.48,77.91,67.6,54.77,79.49,
-o3 Mini Medium,,OpenAI,67.16,69.0,58.43,71.68,66.56,54.12,83.16,
-QwQ 32B,2025/03/06,Alibaba,65.69,76.72,43.0,76.08,65.03,51.48,81.83,
-GPT-4.5 Preview,2025/02/27,OpenAI,62.13,54.42,49.0,67.94,64.33,64.76,72.33,
-Gemini 2.0 Flash Thinking Experimental,2025/02/05,Google,62.05,61.5,35.71,74.81,69.37,48.43,82.47,https://www.google.com/search?q=Gemini%202.0%20Flash%20Thinking%20Experimental%20LLM%20release
+o3 Mini High,2/12/2025,OpenAI,71.37,74.36,65.48,76.55,70.64,56.86,84.36,
+Claude 3.7 Sonnet Thinking,2/24/2025,Anthropic,70.57,76.17,44.67,79,74.05,68.27,81.25,https://www.google.com/search?q=Claude%203.7%20Sonnet%20Thinking%20Anthropic%20release%20date%20site%3Awikipedia.org
+Grok 3 Mini Beta (High),,xAI,68.33,87.61,39.71,77,67.87,59.09,78.7,
+DeepSeek R1,1/20/2025,DeepSeek,67.47,76.58,48.48,77.91,67.6,54.77,79.49,
+o3 Mini Medium,,OpenAI,67.16,69,58.43,71.68,66.56,54.12,83.16,
+QwQ 32B,3/6/2025,Alibaba,65.69,76.72,43,76.08,65.03,51.48,81.83,
+GPT-4.5 Preview,2/27/2025,OpenAI,62.13,54.42,49,67.94,64.33,64.76,72.33,
+Gemini 2.0 Flash Thinking Experimental,2/5/2025,Google,62.05,61.5,35.71,74.81,69.37,48.43,82.47,https://www.google.com/search?q=Gemini%202.0%20Flash%20Thinking%20Experimental%20LLM%20release
 Gemini 2.0 Pro Experimental,,Google,61.59,61.75,35.33,68.54,68.02,52.5,83.38,
 o3 Mini Low,,OpenAI,59.76,55.94,50.76,61.67,62.04,48.07,80.06,
-GPT-4.1,2025/04/14,OpenAI,58.41,44.39,42.95,62.39,69.13,54.55,77.05,
-Claude 3.7 Sonnet,2025/02/24,Anthropic,58.21,49.11,32.43,64.65,63.37,63.19,76.49,
-DeepSeek V3,2024/12/01,DeepSeek,57.48,44.28,40.52,71.44,60.37,46.82,81.47,https://www.google.com/search?q=DeepSeek%20V3%20DeepSeek%20launched
+GPT-4.1,4/14/2025,OpenAI,58.41,44.39,42.95,62.39,69.13,54.55,77.05,
+Claude 3.7 Sonnet,2/24/2025,Anthropic,58.21,49.11,32.43,64.65,63.37,63.19,76.49,
+DeepSeek V3,12/1/2024,DeepSeek,57.48,44.28,40.52,71.44,60.37,46.82,81.47,https://www.google.com/search?q=DeepSeek%20V3%20DeepSeek%20launched
 Grok 3 Beta,,xAI,56.95,48.53,37.33,62.75,54.53,53.8,84.74,
 ChatGPT-4o,,OpenAI,55.84,48.81,38.67,55.72,70.47,49.43,71.92,
-GPT-4.1 Mini,2025/04/14,OpenAI,55.55,53.78,47.57,58.78,64.87,38.0,70.31,
-Qwen2.5 Max,2025/04/14,Alibaba,55.14,38.53,33.81,56.87,67.93,58.37,75.35,
+GPT-4.1 Mini,4/14/2025,OpenAI,55.55,53.78,47.57,58.78,64.87,38,70.31,
+Qwen2.5 Max,4/14/2025,Alibaba,55.14,38.53,33.81,56.87,67.93,58.37,75.35,
 Gemini 2.0 Flash,,Google,54.89,44.25,26.19,63.19,67.55,42.39,85.79,
-DeepSeek R1 Distill Llama 70B,2025/01/23,DeepSeek,54.69,59.81,46.62,58.8,55.93,37.05,69.94,
+DeepSeek R1 Distill Llama 70B,1/23/2025,DeepSeek,54.69,59.81,46.62,58.8,55.93,37.05,69.94,
 Llama 4 Maverick 17B 128E Instruct,,Meta,54.38,43.83,37.43,60.58,59.03,49.65,75.75,
-o1 Mini,2024/09/12,OpenAI,53.43,51.33,41.0,60.26,57.92,44.66,65.4,
+o1 Mini,9/12/2024,OpenAI,53.43,51.33,41,60.26,57.92,44.66,65.4,
 Hunyuan Turbos,,Tencent,50.83,38.22,23.24,57.47,75.49,34.46,76.13,
-Claude 3.5 Sonnet,2024/10/22,Anthropic,50.81,43.22,32.29,50.54,55.03,54.48,69.3,
+Claude 3.5 Sonnet,10/22/2024,Anthropic,50.81,43.22,32.29,50.54,55.03,54.48,69.3,
 Step 2 16K,,StepFun,49.86,42.39,31.09,43.68,63.72,38.41,79.88,
-GPT-4o (2024-08-06),2024/08/06,OpenAI,49.21,42.58,31.81,45.72,60.91,45.63,68.58,
-DeepSeek R1 Distill Qwen 32B,2025/01/29,DeepSeek,48.14,44.36,52.33,60.13,45.41,30.92,55.71,
+GPT-4o (2024-08-06),8/6/2024,OpenAI,49.21,42.58,31.81,45.72,60.91,45.63,68.58,
+DeepSeek R1 Distill Qwen 32B,1/29/2025,DeepSeek,48.14,44.36,52.33,60.13,45.41,30.92,55.71,
 Grok 2,,xAI,48.11,36.72,26.14,55.94,54.45,45.79,69.63,
 Gemini 2.0 Flash Lite,,Google,47.77,32.25,23.38,54.97,65.45,33.94,76.63,
-Llama 3.1 405B Instruct Turbo,2024/08/06,Meta,47.54,40.58,28.81,40.49,55.85,43.58,75.9,https://www.vals.ai/models/together_meta-llama_Meta-Llama-3.1-405B-Instruct-Turbo
-LearnLM 1.5 Pro Experimental,2024/11/21,Google,47.49,34.86,32.38,56.71,54.97,37.86,68.16,
+Llama 3.1 405B Instruct Turbo,8/6/2024,Meta,47.54,40.58,28.81,40.49,55.85,43.58,75.9,https://www.vals.ai/models/together_meta-llama_Meta-Llama-3.1-405B-Instruct-Turbo
+LearnLM 1.5 Pro Experimental,11/21/2024,Google,47.49,34.86,32.38,56.71,54.97,37.86,68.16,
 GPT-4o (2024-11-20),,OpenAI,47.03,39.75,35.19,41.48,56.15,44.68,64.94,
 Gemma 3 27B,,Google,46.63,34.42,25.43,52.27,51.45,41.31,74.9,
 Llama 3.3 70B Instruct Turbo,,Meta,45.68,32.53,24.05,41.4,49.49,43.97,82.67,
-Claude 3 Opus,2024/03/05,Anthropic,45.61,32.03,23.33,42.93,57.89,53.57,63.89,
-Command A,2025/03/13,Cohere,45.33,36.33,20.43,45.54,50.06,36.7,82.9,
-Dracarys2 72B Instruct,2024/12/18,AbacusAI,44.83,37.49,25.43,52.25,55.51,33.06,65.22,https://abacus.ai/blog?q=Dracarys2+72B+Instruct
+Claude 3 Opus,3/5/2024,Anthropic,45.61,32.03,23.33,42.93,57.89,53.57,63.89,
+Command A,3/13/2025,Cohere,45.33,36.33,20.43,45.54,50.06,36.7,82.9,
+Dracarys2 72B Instruct,12/18/2024,AbacusAI,44.83,37.49,25.43,52.25,55.51,33.06,65.22,https://abacus.ai/blog?q=Dracarys2+72B+Instruct
 Mistral Large,,Mistral AI,43.59,33.83,26.95,42.2,50.15,40.45,67.93,
-Qwen2.5 72B Instruct Turbo,,Alibaba,43.36,34.08,21.29,51.88,51.91,36.63,64.39,
-Dracarys2 Llama 3.1 70B Instruct,2024/12/18,AbacusAI,42.97,36.67,21.24,40.3,53.98,42.37,63.24,https://abacus.ai/blog?q=Dracarys2+Llama+3.1+70B+Instruct
+Qwen2.5 72B Instruct Turbo, 4/18/2024,Alibaba,43.36,34.08,21.29,51.88,51.91,36.63,64.39,https://www.vals.ai/models/together_Qwen_Qwen2.5-72B-Instruct-Turbo
+Dracarys2 Llama 3.1 70B Instruct,12/18/2024,AbacusAI,42.97,36.67,21.24,40.3,53.98,42.37,63.24,https://abacus.ai/blog?q=Dracarys2+Llama+3.1+70B+Instruct
 Gemma 3 12B,,Google,41.25,28.61,19.09,48.14,46.56,31.27,73.83,
-Mistral Small,2024/02/26,Mistral AI,40.92,37.08,21.29,38.39,50.54,34.59,63.66,https://www.google.com/search?q=Mistral%20Small%20Mistral%20AI%20launched
-Phi-4,2025/01/10,Microsoft,40.68,39.06,29.09,43.03,45.17,29.33,58.38,
-Llama 3.1 70B Instruct Turbo,2024/07/23,Meta,40.52,29.67,19.86,32.54,53.75,38.35,68.98,https://www.google.com/search?q=Llama%203.1%2070B%20Instruct%20Turbo%20LLM%20release
-Nova Pro,2025/04/16,Amazon,40.05,28.25,20.0,37.7,48.31,38.94,67.13,https://aws.amazon.com/blogs/machine-learning/?q=Nova+Pro
-GPT-4.1 Nano,2025/04/14,OpenAI,39.72,35.58,25.29,42.39,46.59,30.96,57.54,
-Claude 3.5 Haiku,2024/11/04,Anthropic,38.49,26.19,19.86,34.84,48.45,39.71,61.88,
-GPT-4o Mini,2024/07/18,OpenAI,37.63,25.64,25.48,38.05,49.96,29.88,56.8,
-Gemini 1.5 Flash 8B,2025/04/16,Google,34.37,18.69,16.48,32.17,46.27,22.87,69.72,https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/
-Nova Lite,2024/12/03,Amazon,33.47,32.0,15.24,34.62,37.23,27.62,54.13,https://www.google.com/search?q=Nova%20Lite%20AI%20model%20release
+Mistral Small,2/26/2024,Mistral AI,40.92,37.08,21.29,38.39,50.54,34.59,63.66,https://www.google.com/search?q=Mistral%20Small%20Mistral%20AI%20launched
+Phi-4,1/10/2025,Microsoft,40.68,39.06,29.09,43.03,45.17,29.33,58.38,
+Llama 3.1 70B Instruct Turbo,7/23/2024,Meta,40.52,29.67,19.86,32.54,53.75,38.35,68.98,https://www.google.com/search?q=Llama%203.1%2070B%20Instruct%20Turbo%20LLM%20release
+Nova Pro,4/16/2025,Amazon,40.05,28.25,20,37.7,48.31,38.94,67.13,https://aws.amazon.com/blogs/machine-learning/?q=Nova+Pro
+GPT-4.1 Nano,4/14/2025,OpenAI,39.72,35.58,25.29,42.39,46.59,30.96,57.54,
+Claude 3.5 Haiku,11/4/2024,Anthropic,38.49,26.19,19.86,34.84,48.45,39.71,61.88,
+GPT-4o Mini,7/18/2024,OpenAI,37.63,25.64,25.48,38.05,49.96,29.88,56.8,
+Gemini 1.5 Flash 8B,4/16/2025,Google,34.37,18.69,16.48,32.17,46.27,22.87,69.72,https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/
+Nova Lite,12/3/2024,Amazon,33.47,32,15.24,34.62,37.23,27.62,54.13,https://www.google.com/search?q=Nova%20Lite%20AI%20model%20release
 AzeroGPT,,SoundAI,32.7,24.47,15.95,31.81,33.95,30.73,59.31,
 Gemma 3 4B,,Google,30.13,19.78,11.71,31.33,39.3,15.06,63.58,
-Command R Plus,2024/04/04,Cohere,29.86,21.64,8.19,22.82,38.06,30.86,57.61,
-Qwen2.5 7B Instruct Turbo,,Alibaba,29.22,22.31,11.0,36.81,35.22,17.85,52.11,
-Nova Micro,2025/04/16,Amazon,28.65,25.42,6.14,34.15,33.95,24.19,48.04,https://aws.amazon.com/blogs/machine-learning/?q=Nova+Micro
-Command R,2024/03/14,Cohere,26.99,20.58,6.1,18.35,33.34,27.93,55.62,
+Command R Plus,4/4/2024,Cohere,29.86,21.64,8.19,22.82,38.06,30.86,57.61,
+Qwen2.5 7B Instruct Turbo, 4/18/2024,Alibaba,29.22,22.31,11,36.81,35.22,17.85,52.11,https://www.vals.ai/models/together_Qwen_Qwen2.5-7B-Instruct-Turbo
+Nova Micro,4/16/2025,Amazon,28.65,25.42,6.14,34.15,33.95,24.19,48.04,https://aws.amazon.com/blogs/machine-learning/?q=Nova+Micro
+Command R,3/14/2024,Cohere,26.99,20.58,6.1,18.35,33.34,27.93,55.62,
 Llama 3.1 8B Instruct Turbo,,Meta,24.95,14.78,11.05,15.08,32.82,21.1,54.9,
-Claude 3.5 Sonnet,2024/10/22,Anthropic,61.16,64.0,63.21,53.75,56.74,56.94,72.3,
-GPT-4o (2024-08-06),2024/08/06,OpenAI,56.46,54.0,50.63,52.29,52.89,54.37,74.58,
-ChatGPT-4o,2024/05/01,OpenAI,55.35,57.0,46.0,52.19,54.43,49.95,72.52,https://www.google.com/search?q=ChatGPT-4o%20AI%20model%20release
-Llama 3.1 405B Instruct Turbo,,Meta,55.18,57.0,45.68,46.55,53.51,49.85,78.47,
-Gemini 1.5 Pro Experimental (2024-08-27),2024/08/27,Google,55.06,56.0,42.0,56.28,50.83,49.31,75.95,
-GPT-4o (2024-05-13),2024/05/13,OpenAI,54.96,55.0,46.37,49.88,52.41,53.94,72.17,
-Gemini 1.5 Pro Experimental (2024-08-01),2024/08/01,Google,53.63,55.0,43.37,47.46,50.15,46.96,78.84,
-GPT-4 Turbo,2024/04/09,OpenAI,53.0,54.0,47.05,48.99,51.32,45.26,71.39,
-Claude 3 Opus,2024/03/05,Anthropic,50.75,41.0,40.05,46.54,54.32,51.72,70.87,
-Dracarys Llama 3.1 70B Instruct,2024/12/18,AbacusAI,49.82,50.0,36.11,45.68,47.99,41.77,77.37,https://abacus.ai/blog?q=Dracarys+Llama+3.1+70B+Instruct
-GPT-4 Preview,2023/03/14,OpenAI,49.39,48.0,44.05,42.75,54.06,43.55,63.92,https://www.google.com/search?q=GPT-4%20Preview%20language%20model%20release%20date%20site%3Awikipedia.org
-Llama 3.1 70B Instruct Turbo,,Meta,48.9,43.0,33.11,45.58,50.29,42.36,79.08,
-DeepSeek V2.5,,DeepSeek,48.85,43.0,46.5,52.47,46.78,35.18,69.15,
-Mistral Large,,Mistral AI,48.35,45.0,46.37,40.48,46.61,39.79,71.85,
-Gemini 1.5 Flash Experimental,2024/06/27,Google,47.51,52.0,39.74,36.29,47.87,31.04,78.11,https://www.google.com/search?q=Gemini%201.5%20Flash%20Experimental%20Google%20release%20date%20site%3Awikipedia.org
-DeepSeek Coder V2,,DeepSeek,46.84,49.0,41.05,52.54,38.25,33.04,67.18,
-GPT-4,2023/05/28,OpenAI,44.94,31.0,37.05,36.22,44.03,49.57,71.79,
-GPT-4o Mini,2024/07/18,OpenAI,44.57,37.0,43.37,41.58,44.52,35.28,65.68,
-Gemini 1.5 Pro API,,Google,44.41,33.0,32.79,42.42,52.81,38.25,67.2,
-Dracarys 72B Instruct,2024/12/18,AbacusAI,41.72,41.0,41.05,42.77,26.24,31.17,68.08,https://abacus.ai/blog?q=Dracarys+72B+Instruct
-Gemma 2 27B,,Google,41.22,31.0,36.74,36.23,43.58,32.4,67.37,
-Gemini 1.5 Flash API,2025/04/16,Google,40.95,30.0,39.05,38.89,44.03,30.69,63.01,https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/
-qwen2-72b-instruct,,,40.16,42.0,31.79,43.44,26.24,29.21,68.27,
-smaug-qwen2-72b-instruct,,,39.66,37.0,39.05,40.67,26.19,30.03,65.0,
-hermes-3-llama-3.1-70b,,,39.56,32.0,29.79,28.32,48.11,43.77,55.37,
-mistral-large-2402,,,38.92,35.0,26.84,32.2,42.55,28.74,68.19,
-Claude 3 Sonnet,2024/03/05,Anthropic,38.08,26.0,25.21,29.65,44.56,38.08,65.0,
-meta-llama-3-70b-instruct,,,37.6,31.0,20.95,32.31,43.75,34.11,63.5,
-Gemini 1.5 Flash 8B Experimental,,Google,36.03,28.0,28.16,33.17,35.32,22.52,69.03,
-Claude 3 Haiku,2024/03/13,Anthropic,35.32,26.0,24.53,25.72,41.54,30.07,64.03,
-Mixtral 8x22B Instruct,,Mistral AI,35.29,29.0,33.11,28.33,31.67,26.48,63.17,
-Phi-3.5 MoE Instruct,,Microsoft,35.14,41.0,19.26,33.3,40.46,17.07,59.73,
-GPT-3.5 Turbo,2023/05/28,OpenAI,34.66,26.0,29.16,26.93,41.21,24.22,60.47,
-Command R Plus (2024-08),2024/08/01,Cohere,34.47,33.0,16.95,26.39,35.92,30.95,63.62,https://www.google.com/search?q=Command%20R%20Plus%20%282024-08%29%20LLM%20release
-Mistral Small,,Mistral AI,33.03,28.0,24.21,28.15,31.88,22.06,63.91,
-Command R Plus,2024/04/04,Cohere,32.86,32.0,20.26,24.85,24.6,23.92,71.51,
-Gemma 2 9B,,Google,31.57,19.0,22.21,23.98,35.06,27.64,61.55,
-Phi-3 Medium 4K Instruct,2024/06/15,Microsoft,30.96,35.0,20.58,31.36,31.63,13.91,53.3,
-Command R (2024-08),,Cohere,30.61,26.0,17.26,26.35,31.34,17.0,65.7,
-Phi-3 Medium 128K Instruct,2024/05/24,Microsoft,29.88,31.0,21.58,25.64,32.12,12.76,56.15,
-Phi-3 Small 128K Instruct,,Microsoft,29.68,28.0,24.87,28.97,27.26,15.53,53.47,
-deepseek-coder-v2-lite-instruct,,,29.21,22.0,26.84,34.44,33.0,10.64,48.34,
-Phi-3 Small 8K Instruct,2024/05/21,Microsoft,29.09,29.0,21.24,23.73,29.62,15.13,55.81,https://www.google.com/search?q=Phi-3%20Small%208K%20Instruct%20Microsoft%20release%20date
-qwen1.5-110b-chat,,,29.07,26.0,22.21,26.28,31.45,13.22,55.26,
-Open Mistral Nemo,,Mistral AI,29.02,25.0,28.16,21.66,33.35,14.15,51.8,
-qwen1.5-72b-chat,,,28.89,21.0,22.89,26.82,32.98,11.37,58.25,
-Llama 3.1 8B Instruct Turbo,,Meta,28.11,14.0,21.58,24.37,32.15,20.05,56.53,
-Phi-3.5 Mini Instruct,2025/04/16,Microsoft,27.81,31.0,15.26,22.2,30.43,9.67,58.3,"https://llm.extractum.io/model/microsoft%2FPhi-3.5-mini-instruct,43cIigPKk8HcpNtTWhySC4"
-meta-llama-3-8b-instruct,,,27.46,25.0,18.26,19.66,26.0,18.72,57.14,
-Command R,2024/03/14,Cohere,27.23,28.0,14.95,16.92,31.69,14.64,57.16,
-qwen2-7b-instruct,,,26.63,20.0,29.21,26.87,28.75,10.21,44.74,
-Phi-3 Mini 128K Instruct,2024/05/26,Microsoft,24.76,24.0,14.29,17.06,34.02,7.76,51.4,
-Phi-3 Mini 4K Instruct,,Microsoft,24.41,22.0,14.79,20.84,29.55,8.06,51.25,
-mathstral-7b-v0.1,,,24.33,16.0,15.63,17.84,27.89,15.37,53.25,
-openhermes-2.5-mistral-7b,,,23.36,17.0,11.63,20.45,26.92,11.37,52.78,
-mixtral-8x7b-instruct-v0.1,,,22.79,18.0,11.32,20.71,28.13,13.76,44.81,
-mistral-7b-instruct-v0.3,,,20.09,11.0,9.0,14.56,21.77,11.85,52.37,
-mistral-7b-instruct-v0.2,2023/09/27,,19.51,13.0,11.63,17.08,14.62,9.05,51.65,https://www.google.com/search?q=mistral-7b-instruct-v0.2%20language%20model%20release%20date%20site%3Awikipedia.org
-zephyr-7b-alpha,,,19.28,17.0,11.32,9.96,17.4,7.2,52.79,
-gemma-1.1-7b-it,,,18.23,10.0,11.0,15.21,18.17,10.65,44.34,
-deepseek-v2-lite-chat,,,17.49,13.0,8.63,14.08,18.19,9.2,41.83,
-zephyr-7b-beta,,,17.32,16.0,8.32,11.23,15.75,4.28,48.32,
-qwen1.5-7b-chat,,,17.02,13.0,6.63,15.29,16.9,6.18,44.12,
-starling-lm-7b-beta,,,16.62,19.0,18.26,14.86,2.0,7.26,38.32,
-vicuna-7b-v1.5-16k,,,14.22,15.0,1.32,9.04,9.93,7.92,42.12,
-vicuna-7b-v1.5,2023/07/18,,12.31,12.0,1.0,7.1,3.33,8.66,41.75,https://www.google.com/search?q=vicuna-7b-v1.5%20language%20model%20release%20date
-qwen1.5-4b-chat,2023/11/30,,11.59,13.0,4.0,9.86,9.13,5.8,27.75,https://www.google.com/search?q=qwen1.5-4b-chat%20language%20model%20release%20date
-qwen2-1.5b-instruct,,,10.42,8.0,5.63,9.94,10.01,3.05,25.9,
-llama-2-7b-chat-hf,,,10.25,5.0,0.0,4.78,0.0,6.86,44.88,
-yi-6b-chat,,,9.02,8.0,1.32,8.53,4.38,4.69,27.22,
-qwen2-0.5b-instruct,,,7.3,3.0,2.0,7.35,2.0,2.8,26.63,
-qwen1.5-1.8b-chat,,,6.32,5.0,0.0,3.53,3.33,3.16,22.9,
-qwen1.5-0.5b-chat,,,5.43,4.0,0.0,4.43,0.0,2.88,21.3,
+Claude 3.5 Sonnet,10/22/2024,Anthropic,61.16,64,63.21,53.75,56.74,56.94,72.3,
+GPT-4o (2024-08-06),8/6/2024,OpenAI,56.46,54,50.63,52.29,52.89,54.37,74.58,
+ChatGPT-4o,5/1/2024,OpenAI,55.35,57,46,52.19,54.43,49.95,72.52,https://www.google.com/search?q=ChatGPT-4o%20AI%20model%20release
+Llama 3.1 405B Instruct Turbo,,Meta,55.18,57,45.68,46.55,53.51,49.85,78.47,
+Gemini 1.5 Pro Experimental (2024-08-27),8/27/2024,Google,55.06,56,42,56.28,50.83,49.31,75.95,
+GPT-4o (2024-05-13),5/13/2024,OpenAI,54.96,55,46.37,49.88,52.41,53.94,72.17,
+Gemini 1.5 Pro Experimental (2024-08-01),8/1/2024,Google,53.63,55,43.37,47.46,50.15,46.96,78.84,
+GPT-4 Turbo,4/9/2024,OpenAI,53,54,47.05,48.99,51.32,45.26,71.39,
+Claude 3 Opus,3/5/2024,Anthropic,50.75,41,40.05,46.54,54.32,51.72,70.87,
+Dracarys Llama 3.1 70B Instruct,12/18/2024,AbacusAI,49.82,50,36.11,45.68,47.99,41.77,77.37,https://abacus.ai/blog?q=Dracarys+Llama+3.1+70B+Instruct
+GPT-4 Preview,3/14/2023,OpenAI,49.39,48,44.05,42.75,54.06,43.55,63.92,https://www.google.com/search?q=GPT-4%20Preview%20language%20model%20release%20date%20site%3Awikipedia.org
+Llama 3.1 70B Instruct Turbo,,Meta,48.9,43,33.11,45.58,50.29,42.36,79.08,
+DeepSeek V2.5,,DeepSeek,48.85,43,46.5,52.47,46.78,35.18,69.15,
+Mistral Large,,Mistral AI,48.35,45,46.37,40.48,46.61,39.79,71.85,
+Gemini 1.5 Flash Experimental,6/27/2024,Google,47.51,52,39.74,36.29,47.87,31.04,78.11,https://www.google.com/search?q=Gemini%201.5%20Flash%20Experimental%20Google%20release%20date%20site%3Awikipedia.org
+DeepSeek Coder V2,,DeepSeek,46.84,49,41.05,52.54,38.25,33.04,67.18,
+GPT-4,5/28/2023,OpenAI,44.94,31,37.05,36.22,44.03,49.57,71.79,
+GPT-4o Mini,7/18/2024,OpenAI,44.57,37,43.37,41.58,44.52,35.28,65.68,
+Gemini 1.5 Pro API,,Google,44.41,33,32.79,42.42,52.81,38.25,67.2,
+Dracarys 72B Instruct,12/18/2024,AbacusAI,41.72,41,41.05,42.77,26.24,31.17,68.08,https://abacus.ai/blog?q=Dracarys+72B+Instruct
+Gemma 2 27B,,Google,41.22,31,36.74,36.23,43.58,32.4,67.37,
+Gemini 1.5 Flash API,4/16/2025,Google,40.95,30,39.05,38.89,44.03,30.69,63.01,https://developers.googleblog.com/en/gemini-15-flash-8b-is-now-generally-available-for-use/
+qwen2-72b-instruct,10/8/2024,Alibaba,40.16,42,31.79,43.44,26.24,29.21,68.27,https://huggingface.co/Qwen/Qwen2-72B-Instruct
+smaug-qwen2-72b-instruct,,Alibaba,39.66,37,39.05,40.67,26.19,30.03,65,
+hermes-3-llama-3.1-70b,,,39.56,32,29.79,28.32,48.11,43.77,55.37,
+mistral-large-2402,,,38.92,35,26.84,32.2,42.55,28.74,68.19,
+Claude 3 Sonnet,3/5/2024,Anthropic,38.08,26,25.21,29.65,44.56,38.08,65,
+meta-llama-3-70b-instruct,,,37.6,31,20.95,32.31,43.75,34.11,63.5,
+Gemini 1.5 Flash 8B Experimental,,Google,36.03,28,28.16,33.17,35.32,22.52,69.03,
+Claude 3 Haiku,3/13/2024,Anthropic,35.32,26,24.53,25.72,41.54,30.07,64.03,
+Mixtral 8x22B Instruct,,Mistral AI,35.29,29,33.11,28.33,31.67,26.48,63.17,
+Phi-3.5 MoE Instruct,,Microsoft,35.14,41,19.26,33.3,40.46,17.07,59.73,
+GPT-3.5 Turbo,5/28/2023,OpenAI,34.66,26,29.16,26.93,41.21,24.22,60.47,
+Command R Plus (2024-08),8/1/2024,Cohere,34.47,33,16.95,26.39,35.92,30.95,63.62,https://www.google.com/search?q=Command%20R%20Plus%20%282024-08%29%20LLM%20release
+Mistral Small,,Mistral AI,33.03,28,24.21,28.15,31.88,22.06,63.91,
+Command R Plus,4/4/2024,Cohere,32.86,32,20.26,24.85,24.6,23.92,71.51,
+Gemma 2 9B,,Google,31.57,19,22.21,23.98,35.06,27.64,61.55,
+Phi-3 Medium 4K Instruct,6/15/2024,Microsoft,30.96,35,20.58,31.36,31.63,13.91,53.3,
+Command R (2024-08),,Cohere,30.61,26,17.26,26.35,31.34,17,65.7,
+Phi-3 Medium 128K Instruct,5/24/2024,Microsoft,29.88,31,21.58,25.64,32.12,12.76,56.15,
+Phi-3 Small 128K Instruct,,Microsoft,29.68,28,24.87,28.97,27.26,15.53,53.47,
+deepseek-coder-v2-lite-instruct,,Deepseek,29.21,22,26.84,34.44,33,10.64,48.34,
+Phi-3 Small 8K Instruct,5/21/2024,Microsoft,29.09,29,21.24,23.73,29.62,15.13,55.81,https://www.google.com/search?q=Phi-3%20Small%208K%20Instruct%20Microsoft%20release%20date
+qwen1.5-110b-chat,4/30/2024,Alibaba,29.07,26,22.21,26.28,31.45,13.22,55.26,https://huggingface.co/Qwen/Qwen1.5-110B-Chat
+Open Mistral Nemo,,Mistral AI,29.02,25,28.16,21.66,33.35,14.15,51.8,
+qwen1.5-72b-chat,10/8/2024,Alibaba,28.89,21,22.89,26.82,32.98,11.37,58.25,https://huggingface.co/Qwen/Qwen1.5-72B-Chat
+Llama 3.1 8B Instruct Turbo,,Meta,28.11,14,21.58,24.37,32.15,20.05,56.53,
+Phi-3.5 Mini Instruct,4/16/2025,Microsoft,27.81,31,15.26,22.2,30.43,9.67,58.3,"https://llm.extractum.io/model/microsoft%2FPhi-3.5-mini-instruct,43cIigPKk8HcpNtTWhySC4"
+meta-llama-3-8b-instruct,,,27.46,25,18.26,19.66,26,18.72,57.14,
+Command R,3/14/2024,Cohere,27.23,28,14.95,16.92,31.69,14.64,57.16,
+qwen2-7b-instruct,8/21/2024,Alibaba,26.63,20,29.21,26.87,28.75,10.21,44.74,https://huggingface.co/Qwen/Qwen2-7B-Instruct
+Phi-3 Mini 128K Instruct,5/26/2024,Microsoft,24.76,24,14.29,17.06,34.02,7.76,51.4,
+Phi-3 Mini 4K Instruct,,Microsoft,24.41,22,14.79,20.84,29.55,8.06,51.25,
+mathstral-7b-v0.1,,,24.33,16,15.63,17.84,27.89,15.37,53.25,
+openhermes-2.5-mistral-7b,,,23.36,17,11.63,20.45,26.92,11.37,52.78,
+mixtral-8x7b-instruct-v0.1,,,22.79,18,11.32,20.71,28.13,13.76,44.81,
+mistral-7b-instruct-v0.3,9/27/2023,Mistral AI,20.09,11,9,14.56,21.77,11.85,52.37,
+mistral-7b-instruct-v0.2,9/27/2023,Mistral AI,19.51,13,11.63,17.08,14.62,9.05,51.65,https://www.google.com/search?q=mistral-7b-instruct-v0.2%20language%20model%20release%20date%20site%3Awikipedia.org
+zephyr-7b-alpha,,,19.28,17,11.32,9.96,17.4,7.2,52.79,
+gemma-1.1-7b-it,,Google,18.23,10,11,15.21,18.17,10.65,44.34,
+deepseek-v2-lite-chat,,DeepSeek,17.49,13,8.63,14.08,18.19,9.2,41.83,
+zephyr-7b-beta,,,17.32,16,8.32,11.23,15.75,4.28,48.32,
+qwen1.5-7b-chat,4/30/2024,Alibaba,17.02,13,6.63,15.29,16.9,6.18,44.12,https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
+starling-lm-7b-beta,,,16.62,19,18.26,14.86,2,7.26,38.32,
+vicuna-7b-v1.5-16k,,,14.22,15,1.32,9.04,9.93,7.92,42.12,
+vicuna-7b-v1.5,7/18/2023,,12.31,12,1,7.1,3.33,8.66,41.75,https://www.google.com/search?q=vicuna-7b-v1.5%20language%20model%20release%20date
+qwen1.5-4b-chat,4/30/2024,Alibaba,11.59,13,4,9.86,9.13,5.8,27.75,https://www.google.com/search?q=qwen1.5-4b-chat%20language%20model%20release%20date
+qwen2-1.5b-instruct,6/6/2024,Alibaba,10.42,8,5.63,9.94,10.01,3.05,25.9,https://huggingface.co/Qwen/Qwen2-1.5B-Instruct
+llama-2-7b-chat-hf,7/18/2023,Meta,10.25,5,0,4.78,0,6.86,44.88,https://www.vals.ai/models/together_togethercomputer_llama-2-7b
+yi-6b-chat,,,9.02,8,1.32,8.53,4.38,4.69,27.22,
+qwen2-0.5b-instruct,8/21/2024,Alibaba,7.3,3,2,7.35,2,2.8,26.63,https://huggingface.co/Qwen/Qwen2-0.5B-Instruct
+qwen1.5-1.8b-chat,4/30/2024,Alibaba,6.32,5,0,3.53,3.33,3.16,22.9,https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat
+qwen1.5-0.5b-chat,4/30/2024,Alibaba,5.43,4,0,4.43,0,2.88,21.3,https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat
