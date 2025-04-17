@@ -1,6 +1,6 @@
 ﻿Model,Releasedate,Organization,Global Average,Reasoning Average,Coding Average,Mathematics Average,Data Analysis Average,Language Average,IF Average,SourceURL
 o3 High,2025/4/16,OpenAI,81.55,93.33,73.33,84.67,75.8,76.0,86.17,
-o3 Medium,2023/03/14,OpenAI,79.22,91.0,72.62,80.66,73.21,73.48,84.32,
+o3 Medium,2025/4/16,OpenAI,79.22,91.0,72.62,80.66,73.21,73.48,84.32,
 o4-Mini High,2025/04/16,OpenAI,78.13,88.11,74.33,84.9,70.43,66.05,84.96,
 Gemini 2.5 Pro Experimental,,Google,77.43,87.53,58.09,89.16,79.89,69.31,80.59,
 o4-Mini Medium,,OpenAI,72.75,78.47,61.81,81.02,70.96,62.41,81.83,
